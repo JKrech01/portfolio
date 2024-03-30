@@ -50,7 +50,12 @@ a {
 p {
     font-size: 16px;
 }
-
+.topnav {
+    height:  100%;
+    width:  100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     margin-bottom: 25px;
+}
 .hero {
     height: 800px;
     width: 100%;
@@ -104,24 +109,21 @@ p {
     max-width: 150px;
 }
 
-.seo-section {
+.future-work {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color:  lightblue;
     color: #ffffff;
 }
-
-.seo-section img {
-    max-height: 200px;
-}
-
-.seo-section h2 {
+.future-work h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+.future-work img {
+    max-height: 200px;
+}
 .footer {
     padding: 20px;
     clear: both;
