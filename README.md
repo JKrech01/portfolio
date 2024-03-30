@@ -25,6 +25,7 @@ I also learned to make a list of the people/sources you wish to acknowledge as y
 https://github.com/JKrech01/portfolio/blob/main/index.html
 
 *  Working version of the code:
+https://jkrech01.github.io/portfolio/
 
 
 ## Support
